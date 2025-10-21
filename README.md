@@ -59,7 +59,7 @@ Below are some of the key insights visualized during the analysis:
 ---
 
 ### 🧮 Feature Importances
-![Feature Importances]()
+![Feature Importances](images/Screenshot%202025-10-21%20085039.png)
 
 ---
 
