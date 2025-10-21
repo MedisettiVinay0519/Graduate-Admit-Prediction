@@ -67,8 +67,8 @@ Below are some of the key insights visualized during the analysis:
 
 | Metric | Value |
 |---------|--------|
-| R² Score | 0.82 |
-| RMSE | 0.05 |
+| R² Score | 0.815 |
+| RMSE | 1.426 |
 
 *(Values may slightly vary depending on dataset split.)*
 
