@@ -53,7 +53,7 @@ The goal is to predict the **probability of admission** to a graduate program ba
 Below are some of the key insights visualized during the analysis:
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap]()
+![Correlation Heatmap](images/Code_Generated_Image.png)
 
 ---
 ---
